@@ -1,0 +1,189 @@
+Applications Memory Usage (kB):
+Uptime: 46910493 Realtime: 97912551
+
+Total PSS by process:
+    86883 kB: com.whatsapp (pid 9562 / activities)
+    61382 kB: system (pid 817)
+    39064 kB: com.android.systemui (pid 1246 / activities)
+    37927 kB: com.google.android.gms.persistent (pid 2399)
+    34054 kB: com.google.android.gms (pid 1189)
+    31898 kB: com.snapchat.android (pid 13133 / activities)
+    29810 kB: com.google.android.googlequicksearchbox (pid 1637 / activities)
+    29388 kB: com.android.vending (pid 26878 / activities)
+    28817 kB: com.google.android.googlequicksearchbox:search (pid 16246)
+    28730 kB: santiago.sis.com.grabilityapplist (pid 17006 / activities)
+    27228 kB: com.google.android.inputmethod.latin (pid 1478)
+    21904 kB: com.motorola.motodisplay (pid 1432)
+    15115 kB: com.google.android.apps.plus (pid 17199)
+    15006 kB: com.android.settings (pid 19664 / activities)
+    14856 kB: com.motorola.motocare (pid 3777)
+    10782 kB: com.android.phone (pid 1614)
+     6606 kB: com.motorola.process.system (pid 1536)
+     6592 kB: surfaceflinger (pid 248)
+     6546 kB: com.google.android.apps.photos:CameraShortcut (pid 15549)
+     6216 kB: android.process.media (pid 10189)
+     6159 kB: android.process.acore (pid 17248)
+     5606 kB: com.motorola.ccc (pid 3105)
+     5315 kB: com.google.process.gapps (pid 17225)
+     3960 kB: com.motorola.modemservice (pid 1603)
+     3558 kB: com.motorola.camera (pid 15591)
+     3486 kB: mediaserver (pid 274)
+     3367 kB: air.com.youdagames.google.ww.gop2MobileFree (pid 17115)
+     2853 kB: com.motorola.MotGallery2 (pid 19832)
+     2561 kB: com.android.defcontainer (pid 16851)
+     2155 kB: logd (pid 243)
+     1665 kB: com.motorola.slpc (pid 1330)
+     1521 kB: com.motorola.process.slpc (pid 1275)
+     1442 kB: zygote (pid 287)
+     1435 kB: mm-qcamera-daemon (pid 300)
+     1404 kB: com.android.server.telecom (pid 1565)
+     1051 kB: rild (pid 417)
+      852 kB: com.google.android.googlequicksearchbox:interactor (pid 1458)
+      785 kB: rild (pid 404)
+      652 kB: com.qualcomm.services.location (pid 1555)
+      528 kB: netd (pid 266)
+      512 kB: wpa_supplicant (pid 7152)
+      494 kB: dumpsys (pid 17641)
+      369 kB: adbd (pid 19153)
+      351 kB: /init (pid 1)
+      286 kB: ueventd (pid 158)
+      252 kB: logcat (pid 16789)
+      223 kB: drmserver (pid 272)
+      223 kB: netmgrd (pid 430)
+      184 kB: healthd (pid 244)
+      174 kB: keystore (pid 278)
+      171 kB: thermal-engine (pid 284)
+      162 kB: qmuxd (pid 365)
+      135 kB: qmi_motext_hook (pid 464)
+      122 kB: qmi_motext_hook (pid 465)
+      115 kB: installd (pid 275)
+      108 kB: mpdecision (pid 2481)
+      101 kB: vold (pid 247)
+       99 kB: rmt_storage (pid 264)
+       94 kB: tcmd (pid 17967)
+       88 kB: servicemanager (pid 246)
+       76 kB: esdpll (pid 389)
+       66 kB: lmkd (pid 245)
+       46 kB: batt_health (pid 200)
+       41 kB: rfs_access (pid 250)
+       34 kB: subsystem_ramdump (pid 318)
+       27 kB: time_daemon (pid 298)
+        7 kB: dhcpcd (pid 20923)
+        6 kB: wcnss_service (pid 305)
+        5 kB: debuggerd (pid 267)
+        5 kB: adsprpcd (pid 285)
+        5 kB: qseecomd (pid 299)
+        5 kB: dropboxd (pid 308)
+        5 kB: qseecomd (pid 663)
+
+Total PSS by OOM adjustment:
+    22065 kB: Native
+                6592 kB: surfaceflinger (pid 248)
+                3486 kB: mediaserver (pid 274)
+                2155 kB: logd (pid 243)
+                1442 kB: zygote (pid 287)
+                1435 kB: mm-qcamera-daemon (pid 300)
+                1051 kB: rild (pid 417)
+                 785 kB: rild (pid 404)
+                 528 kB: netd (pid 266)
+                 512 kB: wpa_supplicant (pid 7152)
+                 494 kB: dumpsys (pid 17641)
+                 369 kB: adbd (pid 19153)
+                 351 kB: /init (pid 1)
+                 286 kB: ueventd (pid 158)
+                 252 kB: logcat (pid 16789)
+                 223 kB: drmserver (pid 272)
+                 223 kB: netmgrd (pid 430)
+                 184 kB: healthd (pid 244)
+                 174 kB: keystore (pid 278)
+                 171 kB: thermal-engine (pid 284)
+                 162 kB: qmuxd (pid 365)
+                 135 kB: qmi_motext_hook (pid 464)
+                 122 kB: qmi_motext_hook (pid 465)
+                 115 kB: installd (pid 275)
+                 108 kB: mpdecision (pid 2481)
+                 101 kB: vold (pid 247)
+                  99 kB: rmt_storage (pid 264)
+                  94 kB: tcmd (pid 17967)
+                  88 kB: servicemanager (pid 246)
+                  76 kB: esdpll (pid 389)
+                  66 kB: lmkd (pid 245)
+                  46 kB: batt_health (pid 200)
+                  41 kB: rfs_access (pid 250)
+                  34 kB: subsystem_ramdump (pid 318)
+                  27 kB: time_daemon (pid 298)
+                   7 kB: dhcpcd (pid 20923)
+                   6 kB: wcnss_service (pid 305)
+                   5 kB: debuggerd (pid 267)
+                   5 kB: adsprpcd (pid 285)
+                   5 kB: qseecomd (pid 299)
+                   5 kB: dropboxd (pid 308)
+                   5 kB: qseecomd (pid 663)
+    61382 kB: System
+               61382 kB: system (pid 817)
+    63989 kB: Persistent
+               39064 kB: com.android.systemui (pid 1246 / activities)
+               10782 kB: com.android.phone (pid 1614)
+                6606 kB: com.motorola.process.system (pid 1536)
+                3960 kB: com.motorola.modemservice (pid 1603)
+                1521 kB: com.motorola.process.slpc (pid 1275)
+                1404 kB: com.android.server.telecom (pid 1565)
+                 652 kB: com.qualcomm.services.location (pid 1555)
+    14856 kB: Persistent Service
+               14856 kB: com.motorola.motocare (pid 3777)
+    28730 kB: Foreground
+               28730 kB: santiago.sis.com.grabilityapplist (pid 17006 / activities)
+    95182 kB: Visible
+               37927 kB: com.google.android.gms.persistent (pid 2399)
+               27228 kB: com.google.android.inputmethod.latin (pid 1478)
+               21904 kB: com.motorola.motodisplay (pid 1432)
+                5606 kB: com.motorola.ccc (pid 3105)
+                1665 kB: com.motorola.slpc (pid 1330)
+                 852 kB: com.google.android.googlequicksearchbox:interactor (pid 1458)
+    29810 kB: Home
+               29810 kB: com.google.android.googlequicksearchbox (pid 1637 / activities)
+   106056 kB: B Services
+               86883 kB: com.whatsapp (pid 9562 / activities)
+                6546 kB: com.google.android.apps.photos:CameraShortcut (pid 15549)
+                6216 kB: android.process.media (pid 10189)
+                3558 kB: com.motorola.camera (pid 15591)
+                2853 kB: com.motorola.MotGallery2 (pid 19832)
+   171680 kB: Cached
+               34054 kB: com.google.android.gms (pid 1189)
+               31898 kB: com.snapchat.android (pid 13133 / activities)
+               29388 kB: com.android.vending (pid 26878 / activities)
+               28817 kB: com.google.android.googlequicksearchbox:search (pid 16246)
+               15115 kB: com.google.android.apps.plus (pid 17199)
+               15006 kB: com.android.settings (pid 19664 / activities)
+                6159 kB: android.process.acore (pid 17248)
+                5315 kB: com.google.process.gapps (pid 17225)
+                3367 kB: air.com.youdagames.google.ww.gop2MobileFree (pid 17115)
+                2561 kB: com.android.defcontainer (pid 16851)
+
+Total PSS by category:
+   225115 kB: Dalvik
+   137970 kB: Native
+    40468 kB: Graphics
+    36442 kB: .dex mmap
+    34770 kB: image mmap
+    26465 kB: .so mmap
+    22833 kB: Other dev
+    18234 kB: code mmap
+    14028 kB: Dalvik Other
+     9165 kB: Unknown
+     8941 kB: .apk mmap
+     7700 kB: GL
+     7476 kB: Stack
+     3931 kB: Other mmap
+      116 kB: .ttf mmap
+       92 kB: Cursor
+        4 kB: .jar mmap
+        0 kB: Ashmem
+        0 kB: Memtrack
+
+Total RAM: 936056 kB (status normal)
+ Free RAM: 424248 kB (171680 cached pss + 224592 cached + 27976 free)
+ Used RAM: 474682 kB (422070 used pss + 228 buffers + 2208 shmem + 50176 slab)
+ Lost RAM: 37126 kB
+     ZRAM: 66944 kB physical used for 163792 kB in swap (163836 kB total swap)
+   Tuning: 96 (large 128), oom 81920 kB, restore limit 27306 kB (high-end-gfx)
