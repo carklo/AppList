@@ -289,7 +289,7 @@ public class SplashActivity extends AppCompatActivity
         double screenInches = Math.sqrt(x+y);
         System.out.println("dimensiones "+ mHeightPixels+ " "+ mWidthPixels);
         System.out.println("screenInches "+screenInches);
-        if(screenInches >= 4.5)
+        if(screenInches >= 6.5)
         {
             res = true;
         }
